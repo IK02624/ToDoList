@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ching\\source\\repos\\todolist\\",
+  "WorkspaceRootPath": "C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|solutionrelative:todolist\\Task.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32C778F2-0127-4D14-8FB1-048C9605F10B}|todolist\\todolist.vcxproj|solutionrelative:todolist\\Task.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Task.cpp",
-              "DocumentMoniker": "C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.cpp",
+              "DocumentMoniker": "C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.cpp",
               "RelativeDocumentMoniker": "todolist\\Task.cpp",
-              "ToolTip": "C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.cpp",
+              "ToolTip": "C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.cpp",
               "RelativeToolTip": "todolist\\Task.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Task.h",
-              "DocumentMoniker": "C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.h",
+              "DocumentMoniker": "C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.h",
               "RelativeDocumentMoniker": "todolist\\Task.h",
-              "ToolTip": "C:\\Users\\ching\\source\\repos\\todolist\\todolist\\Task.h",
+              "ToolTip": "C:\\Users\\ching\\OneDrive\\C\u002B\u002B\\ToDoList\\todolist\\Task.h",
               "RelativeToolTip": "todolist\\Task.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-09T14:53:05.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T14:53:05.259Z"
             }
           ]
         }
